@@ -1,4 +1,4 @@
-# Coursera---Natural-Language-Processing-using-Tensorflow
+# Coursera Natural Language Processing in Tensorflow
 This repository contains quiz solutions for Coursera - Natural Language Processing using Tensorflow
 
 Natural Language Processing in TensorFlow
